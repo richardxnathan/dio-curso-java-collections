@@ -1,4 +1,4 @@
-package src.list;
+package src.list.todolist;
 
 public class Task {
 
