@@ -1,4 +1,4 @@
-package src.list.shoppingcart;
+package src.list.basicoperations.shoppingcart;
 
 public class Item {
 
