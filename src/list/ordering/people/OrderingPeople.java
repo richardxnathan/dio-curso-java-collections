@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class OrdederingPeople {
+public class OrderingPeople {
 
     private List<People> peoples = new ArrayList<>();
 
