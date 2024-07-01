@@ -1,6 +1,4 @@
-package src.list.ordering.people;
-
-import src.list.ordering.people.People;
+package src.list.Ordering.People;
 
 import java.util.Comparator;
 

@@ -1,4 +1,4 @@
-package src.list.basicoperations.todolist;
+package src.list.BasicOperations.ToDoList;
 
 import java.util.ArrayList;
 import java.util.List;

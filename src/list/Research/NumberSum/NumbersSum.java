@@ -1,4 +1,4 @@
-package src.list.research.numberssum;
+package src.list.Research.NumberSum;
 
 import java.util.ArrayList;
 import java.util.List;

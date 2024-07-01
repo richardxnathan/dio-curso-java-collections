@@ -1,4 +1,4 @@
-package src.list.ordering.people;
+package src.list.Ordering.People;
 
 public class People implements Comparable<People> {
 

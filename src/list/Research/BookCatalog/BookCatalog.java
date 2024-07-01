@@ -1,4 +1,4 @@
-package src.list.research.bookcatalog;
+package src.list.Research.BookCatalog;
 
 import java.util.ArrayList;
 import java.util.List;

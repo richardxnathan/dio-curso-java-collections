@@ -1,4 +1,4 @@
-package src.list.basicoperations.shoppingcart;
+package src.list.BasicOperations.ShoppingCart;
 
 import java.util.ArrayList;
 import java.util.List;

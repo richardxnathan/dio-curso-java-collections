@@ -1,4 +1,4 @@
-package src.list.ordering.number;
+package src.list.Ordering.Number;
 
 import java.util.ArrayList;
 import java.util.Collections;

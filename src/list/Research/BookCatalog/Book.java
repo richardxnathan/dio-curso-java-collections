@@ -1,4 +1,4 @@
-package src.list.research.bookcatalog;
+package src.list.Research.BookCatalog;
 
 public class Book {
 

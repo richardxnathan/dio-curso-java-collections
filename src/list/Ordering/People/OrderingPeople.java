@@ -1,4 +1,4 @@
-package src.list.ordering.people;
+package src.list.Ordering.People;
 
 import java.util.ArrayList;
 import java.util.Collections;

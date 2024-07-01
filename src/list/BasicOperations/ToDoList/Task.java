@@ -1,4 +1,4 @@
-package src.list.basicoperations.todolist;
+package src.list.BasicOperations.ToDoList;
 
 public class Task {
 
